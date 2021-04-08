@@ -7,8 +7,8 @@ import emoji
 
 host = 'smtp.gmail.com'
 port = 587
-username = 'sfarmanian@gmail.com'
-password = 'SariBeg-137216-Farmanian'
+username = 'email'
+password = 'pass'
 
 connection = smtp.SMTP(host, port)
 connection.ehlo()
