@@ -11,8 +11,8 @@ import emoji
 host = 'smtp.gmail.com'
 port = 587
 
-username = 'sfarmanian@gmail.com'
-password = 'SariBeg-137216-Farmanian'
+username = 'email'
+password = 'pass'
 
 
 email_subject = 'This is attached file '
